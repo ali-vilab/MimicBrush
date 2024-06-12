@@ -35,7 +35,7 @@
   </table>
 
 ## News
-* **[2024.06.10]** Release inference code, local gradio demo, online demo.
+* **[2024.06.12]** Release inference code, local gradio demo, online demo.
 * **[Todo]** Release our benchmark.
 
 
