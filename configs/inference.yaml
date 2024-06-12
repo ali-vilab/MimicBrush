@@ -1,0 +1,18 @@
+model_path:
+  mimicbrush_ckpt_path: /mnt/myworkspace/new_project/MimicBrush.open/0.0.model/mimicbrush/mimicbrush.bin
+  pretrained_reference_path: /mnt/myworkspace/new_project/MimicBrush.open/0.0.model/stable-diffusion-v1-5
+  pretrained_imitativer_path: /mnt/myworkspace/new_project/MimicBrush.open/0.0.model/stable-diffusion-inpainting
+  pretrained_vae_name_or_path: /mnt/myworkspace/new_project/MimicBrush.open/0.0.model/sd-vae-ft-mse
+  image_encoder_path: /mnt/myworkspace/new_project/MimicBrush.open/0.0.model/image_encoder
+  depth_model: /mnt/myworkspace/new_project/MimicBrush.open/0.0.model/depth_model/depth_anything_vitb14.pth
+data_path:
+  test_set_name: Texture_Within # choose from [ PartComp_Cross, PartComp_Within, Texture_Cross, Texture_Within ] 
+  output_dir: ./test-vis
+  bench_dir_partcomp_cross: /mnt/myworkspace/new_project/MimicBrush_bench/PartComp/CrossInstance
+  bench_dir_partcomp_within: /mnt/myworkspace/new_project/MimicBrush_bench/PartComp/WithinInstance
+  bench_dir_texture_cross: /mnt/myworkspace/new_project/MimicBrush_bench/TextureTrans/CrossInstance
+  bench_dir_texture_within: /mnt/myworkspace/new_project/MimicBrush_bench/TextureTrans/WithinInstance
+
+  
+
+
