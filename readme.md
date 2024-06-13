@@ -21,6 +21,7 @@
     <br>
         <a href="https://arxiv.org/abs/2406.07547"><img src='https://img.shields.io/badge/arXiv-MimicBrush-red' alt='Paper PDF'></a>
         <a href='https://xavierchen34.github.io/MimicBrush-Page/'><img src='https://img.shields.io/badge/Project_Page-MimicBrush-green' alt='Project Page'></a>
+        <a href='https://modelscope.cn/studios/iic/mimicbrush-demo/summary'><img src='https://img.shields.io/badge/ModelScope-MimicBrush-yellow'></a>
         <a href='https://huggingface.co/spaces/xichenhku/MimicBrush'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
     <br>
     <b>The University of Hong Kong &nbsp; | &nbsp;  Alibaba Group  | &nbsp;  Ant Group </b>
