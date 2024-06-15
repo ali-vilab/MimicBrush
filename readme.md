@@ -39,6 +39,8 @@
 * **[2024.06.12]** Release inference code, local gradio demo, online demo.
 * **[Todo]** Release our benchmark.
 
+## Community Contributions
+[ComfyUI version](https://github.com/AIFSH/ComfyUI-MimicBrush) by [@AIFSH](https://github.com/AIFSH)  
 
 ## Installation
 Install with `conda`: 
