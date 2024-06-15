@@ -135,3 +135,5 @@ If you find this codebase useful for your research, please use the following ent
   year={2024}
 }
 ```
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=ali-vilab/MimicBrush&type=Date)](https://star-history.com/#ali-vilab/MimicBrush&Date)
